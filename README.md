@@ -1,16 +1,20 @@
-## Hi there 👋
+### whoami
+Red team | AI security | Automation
 
-<!--
-**xxagent00/xxagent00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I break things, document the process, and build tools that shouldn't exist.
 
-Here are some ideas to get you started:
+### focus
+- Offensive tooling & C2 development
+- AI/LLM attack surface research
+- OSINT & social engineering
+- Automation for the boring parts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stack
+`Python` `Go` `Bash` `Burp` `Ghidra` `Docker` `AWS` `BloodHound`
+
+### now
+- Building notes — cheatsheets I actually use
+- Writing writeups — labs, CTFs, things that broke
+- Shipping tools — scripts that save me time
+
+### 
